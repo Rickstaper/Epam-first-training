@@ -1,0 +1,13 @@
+C:\Users\mrkar\source\repos\EpamNetTraining\bin\Debug\netcoreapp3.1\EpamNetTraining.exe
+C:\Users\mrkar\source\repos\EpamNetTraining\bin\Debug\netcoreapp3.1\EpamNetTraining.deps.json
+C:\Users\mrkar\source\repos\EpamNetTraining\bin\Debug\netcoreapp3.1\EpamNetTraining.runtimeconfig.json
+C:\Users\mrkar\source\repos\EpamNetTraining\bin\Debug\netcoreapp3.1\EpamNetTraining.runtimeconfig.dev.json
+C:\Users\mrkar\source\repos\EpamNetTraining\bin\Debug\netcoreapp3.1\EpamNetTraining.dll
+C:\Users\mrkar\source\repos\EpamNetTraining\bin\Debug\netcoreapp3.1\EpamNetTraining.pdb
+C:\Users\mrkar\source\repos\EpamNetTraining\obj\Debug\netcoreapp3.1\EpamNetTraining.csprojAssemblyReference.cache
+C:\Users\mrkar\source\repos\EpamNetTraining\obj\Debug\netcoreapp3.1\EpamNetTraining.AssemblyInfoInputs.cache
+C:\Users\mrkar\source\repos\EpamNetTraining\obj\Debug\netcoreapp3.1\EpamNetTraining.AssemblyInfo.cs
+C:\Users\mrkar\source\repos\EpamNetTraining\obj\Debug\netcoreapp3.1\EpamNetTraining.csproj.CoreCompileInputs.cache
+C:\Users\mrkar\source\repos\EpamNetTraining\obj\Debug\netcoreapp3.1\EpamNetTraining.dll
+C:\Users\mrkar\source\repos\EpamNetTraining\obj\Debug\netcoreapp3.1\EpamNetTraining.pdb
+C:\Users\mrkar\source\repos\EpamNetTraining\obj\Debug\netcoreapp3.1\EpamNetTraining.genruntimeconfig.cache
